@@ -36,12 +36,12 @@
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170301143914.1"><vh>20170222Week1</vh>
+<v t="leo.20170301143914.1" a="E"><vh>20170222Week1</vh>
 <v t="leo.20170301143914.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170301143914.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170301143323.1"><vh>20170301Week2</vh>
+<v t="leo.20170301143323.1" a="E"><vh>20170301Week2</vh>
 <v t="leo.20170301143323.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170301143323.3"><vh>上課內容1</vh></v>
 </v>
@@ -122,9 +122,6 @@
 
 4.進入https://ethercalc.org/4lirnzbeh0fl寫各組座位表
 
-5.取得各學員座號與組別, 之後再將資料輸出 (複製) 成 txt 檔案後, 以 Python3 程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
-
-6.利用協同完成Solvespace4連桿機構組立
 </t>
 <t tx="leo.20170301143323.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -161,13 +158,10 @@ tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
 
 stunnel.conf移到SciTE
 
-程式碼前面是分號 就是註解不會執行那段程式碼
-
 利用cmd查IP(ipconfig /all)
 
 將https的IP改為電腦的IP
 
-443是https內建的port號, 不用改
 
 因為有用proxy所以要指定192.168.1.49的IP不要經過proxy                                              
 Chrome proxy設定&gt;LAN設定&gt;進階
