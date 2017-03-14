@@ -33,7 +33,7 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170301143914.1" a="E"><vh>20170222Week1</vh>
@@ -498,7 +498,7 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [2017springcd_bg4](https://40423226.github.io/2017springcd_bg4/blog/)
+Created by [2017springcd_bg4](https://40423223.github.io/2017springcd_bg4/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
