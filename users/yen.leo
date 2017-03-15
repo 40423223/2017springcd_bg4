@@ -36,17 +36,55 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170301143914.1" a="E"><vh>20170222Week1</vh>
+<v t="leo.20170301143914.1"><vh>20170222Week1</vh>
 <v t="leo.20170301143914.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170301143914.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170301143323.1" a="E"><vh>20170301Week2</vh>
-<v t="leo.20170301143323.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170301143323.1"><vh>20170301Week2</vh>
+<v t="leo.20170301143323.2"><vh>課堂報告1</vh>
 <v t="leo.20170301143323.3"><vh>上課內容1</vh></v>
 </v>
 <v t="leo.20170301143323.4" a="E"><vh>課堂報告2</vh>
 <v t="leo.20170301143323.5"><vh>上課內容2</vh></v>
+</v>
+</v>
+<v t="leo.20170315085803.1" a="E"><vh>20170304Week3</vh>
+<v t="leo.20170315085846.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315085846.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.2"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.3"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.4"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.5"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.6"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.7"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.8"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.9"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.10"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.11"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.12"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.13"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.14"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.15"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.16" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.17"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315085803.18" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315085803.19"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315090448.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315090448.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315090028.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315090028.2"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
@@ -168,6 +206,187 @@ Chrome proxy設定&gt;LAN設定&gt;進階
 
 2017springcd/data/onelink_vrep_remoteapi_pos_vel.7z
 </t>
+<t tx="leo.20170315085803.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170315085803.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.11">&lt;h2&gt;組合 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6y4ZQHjXwHA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315085803.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.13">&lt;h2&gt;零件一 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q6BSoaGcEkg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315085803.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.15">&lt;h2&gt;零件二 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IeZdbXNIyeQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315085803.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.17">&lt;h2&gt;零件三 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315085803.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.19">&lt;h2&gt;組合 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315085803.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.3">&lt;h2&gt;  四連桿機構 solvespace,onshape &lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/g43TawOsFho" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; 
+
+</t>
+<t tx="leo.20170315085803.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.5">&lt;h2&gt;零件一 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1fKwLav-hPA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170315085803.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.7">&lt;h2&gt;零件二 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MdVrvzSIqWg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170315085803.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085803.9">&lt;h2&gt;零件三 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vCOcjH_3Uas" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315085846.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315085846.2"># Week 3
+&lt;h2&gt;bg4小組 創Fossil SCM&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HI24oKKnF8k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170315090028.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315090028.2">&lt;h2&gt;bg4 onshape組立轉入v rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q-vzhhbOGhE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315090448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315090448.2">&lt;h2&gt;bg4 Slvespace組立轉入v rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PkUgnNXSuGE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
