@@ -3,109 +3,45 @@
 
 &lt;h1&gt;單連桿匯入V-rep作動&lt;/h1&gt;
 
-&lt;h2&gt;設定單連桿匯入v-rep作動&lt;/h2&gt;
+&lt;h2&gt; bg4 設定單連桿匯入v-rep作動&lt;/h2&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Frm8_Lsx9xM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="teach"></category></entry><entry><title>bg4 翻譯2</title><link href="./%E7%BF%BB%E8%AD%AF2.html" rel="alternate"></link><published>2017-03-17T11:20:00+08:00</published><updated>2017-03-17T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-03-17:./翻譯2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;h2&gt;hyperworks 14-3 翻譯  40423203 40423201 &lt;/h2&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMpXFV-gB4s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h2&gt;以下為翻譯&lt;/h2&gt;
-
-&lt;p&gt;we've also introduced what is called the park &lt;/p&gt;
-&lt;p&gt;我們還去可以使用公共模型&lt;/p&gt;
-&lt;p&gt;empathy now and i promise just like CAD park entity &lt;/p&gt;
-&lt;p&gt;就像CAD模型一樣&lt;/p&gt;
-&lt;p&gt;so what that allows us to do is give you theexact same billof materials &lt;/p&gt;
-&lt;p&gt;模型中我們給你完全一樣的物料清單&lt;/p&gt;
-&lt;p&gt;in the hypermesh models that you have in your cad systems &lt;/p&gt;
-&lt;p&gt;讓你在你的CAD系統中使用&lt;/p&gt;
-&lt;p&gt;what we can do now is have say like thin solid it normally since 15 on many differentcomponents&lt;/p&gt;
-&lt;p&gt;我們還可以做出，像較薄的物件通常有15種不同的性質&lt;/p&gt;
-&lt;p&gt;but our shell components and you still want to group all those components into playing withparts and mangement completion away &lt;/p&gt;
-&lt;p&gt;並且將這些所有物質分配組到使用零件的一部分&lt;/p&gt;
-&lt;p&gt;if you want another representation which may be has a differentmesh density you can do that and configure your model according to different types of disciplines or crash or mph you&lt;/p&gt;
-&lt;p&gt;所以如果你想要不同性質表示不同密度，你可以做到並根據不同需求來配置你的模型&lt;/p&gt;
-&lt;p&gt;one of the biggest new capabilities and hyper works for tino is our new modeling and assembly capabilities in hypermesh&lt;/p&gt;
-&lt;p&gt;最大新功能是我們的新建模和組和能力 &lt;/p&gt;
-&lt;p&gt;most people that manufacture products have many different&lt;/p&gt;
-&lt;p&gt;許多產品製造有許多不同的配裝 &lt;/p&gt;
-&lt;p&gt;configurationsof those products and they want to keep their CAE models very much in sync 
-with the CAM and PLM system &lt;/p&gt;
-&lt;p&gt;它們希望能與他們的CAE模型與CAM和PLM系統同步&lt;/p&gt;
-&lt;p&gt;so now we've introduced into hypermesh the ability  to synchronize directly to the PDM &lt;/p&gt;
-&lt;p&gt;所以現在我們介紹了hypermesh能夠直接同步到PDM&lt;/p&gt;
-&lt;p&gt;system can actually import those materials with multiple configurations of the model&lt;/p&gt;
-&lt;p&gt;系統實際上可以導入那些具有多種配置的材料模型 &lt;/p&gt;
-&lt;p&gt;so now the hypermesh model has all those configuratinons in it each part in a 
-hypermesh model&lt;/p&gt;
-&lt;p&gt;現在hypermesh模型有每個部份的配置&lt;/p&gt;
-&lt;p&gt;can now have multiple versions and by just reconfiguring your model you can match 
-the configurations that you normally deal with cad model &lt;/p&gt;
-&lt;p&gt;所以現在你可以有很多個模型選擇匹配&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>bg4 翻譯 1</title><link href="./%E7%BF%BB%E8%AD%AF1.html" rel="alternate"></link><published>2017-03-16T11:20:00+08:00</published><updated>2017-03-16T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-03-16:./翻譯1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;h2&gt;hyperworks 14 4翻譯 40423223 40439221&lt;/h2&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gZkutmx1txc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h2&gt;以下為翻譯&lt;/h2&gt;
-
-&lt;p&gt;i'm really excited about the new graphics 
-that are comming out in hyper mentionthis release&lt;/p&gt;
-&lt;p&gt;我真的很興奮的介紹新圖形出現的這個版本&lt;/p&gt;
-&lt;p&gt;we went back to the drawing board on graphics &lt;/p&gt;
-&lt;p&gt;我們看到這個繪圖板上的圖形&lt;/p&gt;
-&lt;p&gt;now we're really urilizing the full capabilities of the graphics cards  on any system &lt;/p&gt;
-&lt;p&gt;現在我們能在任何系統上用到顯卡全部功能&lt;/p&gt;
-&lt;p&gt;really and the new system has much better quality graphics &lt;/p&gt;
-&lt;p&gt;真的和新系統有更好的質量圖形&lt;/p&gt;
-&lt;p&gt;and we have features now like as you zoom close into your model the mesh lines appear &lt;/p&gt;
-&lt;p&gt;像我們現在的功能就是當你靠近放大模型就會有內部格線出現&lt;/p&gt;
-&lt;p&gt;but as you zoom out rather than getting a black model &lt;/p&gt;
-&lt;p&gt;而當你縮小不再是一個黑色模型&lt;/p&gt;
-&lt;p&gt;the mesh lines fade and now you're actually selecting and working at a hard level rather than an element leve &lt;/p&gt;
-&lt;p&gt;內部格線會漸漸消失，但你現在實際上是選擇工作水平，而不是一個元素水平&lt;/p&gt;
-&lt;p&gt;and even more exciting as the performance of the graphics &lt;/p&gt;
-&lt;p&gt;甚至更令人興奮的是圖形的性能&lt;/p&gt;
-&lt;p&gt;so with the really large models are seeing buge performance boosts with the new graphics&lt;/p&gt;
-&lt;p&gt;能隨著真的大模型看到buge的性能提升與新的圖形&lt;/p&gt;
-&lt;p&gt;so we have one model at 8.5 million elements that we use for benchmarks metmodels running 15 times faster &lt;/p&gt;
-&lt;p&gt;所以我們有一個模型在850萬畫素，我用基準motmodel 運行15倍更快顯示&lt;/p&gt;
-&lt;p&gt;display rapin than previously in 13 &lt;/p&gt;
-&lt;p&gt;rapi比在13&lt;/p&gt;
-&lt;p&gt;and geometry is even faster still getting as much of the 60 times performance boost &lt;/p&gt;
-&lt;p&gt;幾何體甚至更快地獲得60倍的性能提升&lt;/p&gt;
-&lt;p&gt;for large geometry models&lt;/p&gt;
-&lt;p&gt;用於大型幾何模型&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>bg4 Week4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Frm8_Lsx9xM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="teach"></category></entry><entry><title>bg4 Week4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;Fossil SCM 倉儲&lt;/h2&gt;
 
 &lt;p&gt;各組在 https://mde2a2.kmol.info 主機上建立 cdbg4&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdbg4/wcontent"&gt;cdbg4&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;hyperworks 14-4翻譯 40423223 40439221&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gZkutmx1txc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;hyperworks 14-3 翻譯  40423203 40423201 &lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMpXFV-gB4s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;單連桿製作&lt;/h2&gt;
 
-&lt;h2&gt;零件一&lt;/h2&gt;
+&lt;h2&gt;bg4 零件一&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wlOfKTUmetk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件二&lt;/h2&gt;
+&lt;h2&gt;bg4 零件二&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IvmwuJai5_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件三&lt;/h2&gt;
+&lt;h2&gt;bg4 零件三&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vFvmKUre5oo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;組合&lt;/h2&gt;
+&lt;h2&gt;bg4 組合&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7tERu7d2HM0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;導入v-rep&lt;/h2&gt;
+&lt;h2&gt;bg4 導入v-rep&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2jZEmeF_2ew" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="teach"></category></entry><entry><title>bg4 Week3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;小組 創Fossil SCM&lt;/h2&gt;
+&lt;h2&gt;bg4 小組 創Fossil SCM&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HI24oKKnF8k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -125,79 +61,37 @@ that are comming out in hyper mentionthis release&lt;/p&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/g43TawOsFho" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件一 solvespace&lt;/h2&gt;
+&lt;h2&gt;bg4 零件一 solvespace&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1fKwLav-hPA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件二 solvespace&lt;/h2&gt;
+&lt;h2&gt;bg4 零件二 solvespace&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MdVrvzSIqWg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件三 solvespace&lt;/h2&gt;
+&lt;h2&gt;bg4 零件三 solvespace&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vCOcjH_3Uas" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;組合 solvespace&lt;/h2&gt;
+&lt;h2&gt;bg4 組合 solvespace&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6y4ZQHjXwHA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件一 onshape&lt;/h2&gt;
+&lt;h2&gt;bg4 零件一 onshape&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q6BSoaGcEkg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件二 onshape&lt;/h2&gt;
+&lt;h2&gt;bg4 零件二 onshape&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IeZdbXNIyeQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;零件三 onshape&lt;/h2&gt;
+&lt;h2&gt;bg4 零件三 onshape&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;組合 onshape&lt;/h2&gt;
+&lt;h2&gt;bg4 組合 onshape&lt;/h2&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="teach"></category></entry><entry><title>20170301 Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>2017springcd_bg4</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;分組座位原始碼&lt;/p&gt;
-
-&lt;pre class="brush: python"&gt;
-#import os
-adata = open("w2b_cadlab.txt", encoding="utf-8").read()
-rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
-#print(adata)
-alist = adata.splitlines()
-#print(alist[2])
-n = 0
-row = 0
-final_list = []
-w2_list = []
-for stud_num in alist[2:]:
-    row = row + 1
-    blist = stud_num.split("\t")
-    #print(blist)
-    column = 0
-    for i in range(len(blist)):
-        column = column + 1
-        if blist[i] != "":
-            #print(blist[i])
-            clist = blist[i].split("_")
-            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
-            final_list.append(stud_data)
-            w2_list.append(clist[1])
-            n = n +1
-# 根據數列前導字串排序, 目的在建立分組數列
-group_list = sorted(final_list)
-print("分組名單:")
-for i in range(len(group_list)):
-    print(group_list[i])
-print("座位列表:")
-for i in range(len(final_list)):
-    print(final_list[i])
-for i in range(len(rdata)):
-    if rdata[i] not in w2_list:
-        print("缺席學生:", rdata[i])
-print("學生總數:", n)
-#print(os.environ)
-&lt;/pre&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>bg4 Week1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-28T11:20:00+08:00</published><updated>2017-02-28T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-02-28:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="teach"></category></entry><entry><title>bg4 Week1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-28T11:20:00+08:00</published><updated>2017-02-28T11:20:00+08:00</updated><author><name>bg4</name></author><id>tag:,2017-02-28:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;利用ipconfig/all的指令去尋找IP位置再去stunnel.conf修改IP&lt;/p&gt;
 
